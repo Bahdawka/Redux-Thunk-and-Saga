@@ -47,8 +47,8 @@ npm install
 npm run dev
 
 # Перемикання між версіями
-git checkout   # Redux Thunk версія
-git checkout  # Redux Saga версія
+git checkout f619e93  # Redux Thunk версія
+git checkout df60f35 # Redux Saga версія
 ```
 
 ---
