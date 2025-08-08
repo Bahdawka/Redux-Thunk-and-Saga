@@ -1,5 +1,5 @@
 # Redux Basic User [EN version below] / Базовий Redux Проект з Користувачами
-- Deploy link on Vercel: 
+- Deploy link on Vercel: https://redux-thunk-and-saga.vercel.app/
 
 ## 🇺🇦 Українська
 
@@ -99,8 +99,8 @@ npm install
 npm run dev
 
 # Switch between versions
-git checkout 7749bc1  # Redux Thunk version
-git checkout d1f3582  # Redux Saga version
+git checkout f619e93  # Redux Thunk version
+git checkout df60f35  # Redux Saga version
 ```
 
 ### Version Comparison
